@@ -12,7 +12,7 @@ go get -u github.com/fredgan/go-utils
 
 ```
 toml
-mysql
+mysql123
 ```
 
 ## Security
